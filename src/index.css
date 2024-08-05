@@ -13,5 +13,5 @@ body {
 }
 
 .active{
-  border-color: "#F8F8FF" !important;
+  bottom: -4rem;
 }
