@@ -118,7 +118,7 @@ function Navbar() {
       <nav
         id="mobile"
         className={`${
-          toggle ? "-bottom-[4rem]" : ""
+          toggle ? "-bottom-[3rem]" : ""
         } transition-all ease-in-out duration-300 fixed backdrop-blur-lg text-center bottom-full left-0 h-full lg:hidden bg-custom-black z-20`}
       >
         <ul className="pt-3 text-lg text-custom-white">
