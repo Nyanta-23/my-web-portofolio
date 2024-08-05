@@ -3,12 +3,12 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+"homepage" : "http://nyanta-23.github.io/"
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview",
-    "homepage" : "http://nyanta-23.github.io/my-web-portofolio"
+    "preview": "vite preview"
   },
   "dependencies": {
     "react": "^18.3.1",
