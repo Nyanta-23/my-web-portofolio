@@ -23,30 +23,6 @@ function ContactMe() {
           </a>
         </div>
 
-        {/* <ul className="mx-10 my-10 *:my-2 w-full *:text-wrap">
-          <li>
-            <a
-              href="mailto:muhamadilhan02404@gmail.com"
-              className="flex place-items-center"
-            >
-              <Envelope className="w-60"/>
-              <p className="">muhamadilhan02404@gmail.com</p>
-            </a>
-          </li>
-          <li className="grid-rows-1">
-            <a href="https://www.linkedin.com/in/ihaannn/" className="" target="_blank">
-              <Linkedin />
-              <p>Muhamad Ilhan Revaliana Firmansyah</p>
-            </a>
-          </li>
-          <li className="grid-rows-1">
-            <a href="https://www.instagram.com/ihaannn_" className="" target="_blank">
-              <Instagram />
-              <p>@ihaannn_</p>
-            </a>
-          </li>
-        </ul> */}
-
         <p className="text-center text-xl lg:mx-1">
           Dont be shy to call me, i love to meet someone.
         </p>
