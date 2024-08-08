@@ -16,17 +16,17 @@
     "link": "https://kuyliner-app.netlify.app/",
     "image": "2.png",
     "source": "http://localhost:5173/portofolio",
-    "tools": ["React", "Tailwind"],
+    "tools": ["HTML", "CSS", "JavaScript"],
     "visibility": "public"
   },
   {
     "id": 3,
-    "name": "ASD",
-    "description": "Aplikasi manajemen pengeluaran kegiatan kabupaten Sumedang.",
-    "link": "https://kuyliner-app.netlify.app/",
-    "image": "1.png",
+    "name": "Circulation Library",
+    "description": "This application is used for library circulation such as managing borrower members, books, and monitoring or managing book return times.",
+    "link": null,
+    "image": "3.png",
     "source": null,
-    "tools": ["React", "Tailwind", "Express.js", "MongoDb"],
+    "tools": ["Java", "MySQL"],
     "visibility": "private"
   },
   {
