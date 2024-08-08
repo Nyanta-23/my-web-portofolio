@@ -63,8 +63,8 @@ function Portfolio() {
         </nav>
       </div>
 
-      <div className="grid grid-rows-1 mt-5 z-10 ">
-        <div className="grid grid-cols-1 gap-10 sm:grid-cols-2 sm:gap-5 lg:grid-cols-3 justify-self-center">
+      <div className="grid grid-rows-1 mt-5 z-10">
+        <div className="grid grid-cols-1 gap-10 sm:grid-cols-2 sm:gap-5 lg:grid-cols-3 justify-items-center">
           {project.map((project) => (
             <Card key={project.id} project={project} />
           ))}
@@ -79,7 +79,7 @@ function Card({ project }) {
 
   return (
     <>
-      <article className="w-96 sm:w-72 bg-custom-black rounded-b-md backdrop-blur-0 text-white">
+      <article className="w-11/12 sm:w-72 bg-custom-black rounded-b-md backdrop-blur-0 text-white">
         <img
           className="rounded-t-md w-full h-48  object-cover object-[80%_50%]"
           src={`${path}/${project.image}`}
