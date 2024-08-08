@@ -69,6 +69,28 @@
     "source": null,
     "tools": ["React", "Tailwind", "Express.js", "MongoDb"],
     "visibility": "public"
+},
+
+{
+    "id": 8,
+    "name": "Vehicle Management",
+    "description": "This app have function for vehicle management and this have 2 party accept when employee want to borrwos some vehicle",
+    "link": "https://kuyliner-app.netlify.app/",
+    "image": "8.png",
+    "source": null,
+    "tools": ["React", "Tailwind", "Express.js", "MongoDb"],
+    "visibility": "public"
+},
+
+{
+    "id": 7,
+    "name": "E-Katalog",
+    "description": "E Katalog is web like e commerce Like buying and seeing suitable items",
+    "link": "https://kuyliner-app.netlify.app/",
+    "image": "9.png",
+    "source": null,
+    "tools": ["React", "Tailwind", "Express.js", "MongoDb"],
+    "visibility": "public"
 }
 
 ]
