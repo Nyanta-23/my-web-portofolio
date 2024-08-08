@@ -27,8 +27,6 @@ function Navbar() {
     setScrollYPosition(newScrollYPosition);
   };
 
-  console.log(scrollYPosition);
-
   return (
     <header id="navbar" className="text-custom-white">
       <section
