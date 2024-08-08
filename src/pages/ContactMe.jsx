@@ -5,7 +5,7 @@ function ContactMe() {
   const [size, setSize] = useState(25);
 
   return (
-    <section className="pt-10 flex justify-center">
+    <section className="py-12 flex justify-center">
       <article className="border-2 border-none rounded-md bg-custom-black z-10 py-11 text-custom-white w-11/12 sm:w-10/12 md:w-8/12 lg:w-6/12 xl:w-5/12 backdrop-blur-md">
         <h2 className="text-3xl text-center">Interest With Me?</h2>
 
