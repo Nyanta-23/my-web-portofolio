@@ -1,8 +1,7 @@
-import React, { useState } from "react";
+import React from "react";
 import { Envelope, Linkedin, Instagram } from "react-bootstrap-icons";
 
 function ContactMe() {
-  const [size, setSize] = useState(25);
 
   return (
     <section className="py-12 flex justify-center">
