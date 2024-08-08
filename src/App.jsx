@@ -1,4 +1,3 @@
-import { useState } from "react";
 import Routes from "./routes/index";
 import Navbar from "./components/Layout/Navbar";
 import Footer from "./components/Layout/Footer";
@@ -13,7 +12,7 @@ function App() {
         <Routes />
       </section>
       <Footer />
-      <Stars />
+      {/* <Stars /> */}
     </section>
   );
 }
