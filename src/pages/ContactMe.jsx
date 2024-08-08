@@ -23,7 +23,7 @@ function ContactMe() {
           </a>
         </div>
 
-        <p className="text-center text-xl lg:mx-1">
+        <p className="text-center text-xl px-5 lg:px-1">
           Dont be shy to call me, i love to meet someone.
         </p>
       </article>
