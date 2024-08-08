@@ -14,29 +14,22 @@
 <body>
   <div id="root"></div>
 
-  <script type="text/javascript">
-    (function(l) {
-      // Ensure the script only runs if the search query starts with "/"
+    <script type="text/javascript">
+    (function (l) {
       if (l.search[1] === "/") {
-        // Decode the search query
-        var decoded = l.search
-          .slice(1) // Remove the leading "?"
+        const decoded = l.search
+          .slice(1)
           .split("&")
-          .map(function(s) {
+          .map(function (s) {
             return s.replace(/~and~/g, "&");
           })
           .join("?");
-
-        // Replace the current URL in history without reloading
-        window.history.replaceState(
-          null,
-          null,
-          l.pathname.slice(0, -1) + decoded + l.hash
-        );
+        window.history.replaceState(null, null, l.pathname.slice(0, -1) + decoded + l.hash);
       }
     })(window.location);
-  </script>
+    
 
+  </script>
 </body>
 
 </html>
