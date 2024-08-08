@@ -12,7 +12,7 @@ function App() {
         <Routes />
       </section>
       <Footer />
-      {/* <Stars /> */}
+      <Stars />
     </section>
   );
 }
