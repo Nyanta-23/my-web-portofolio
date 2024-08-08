@@ -8,7 +8,7 @@ import "./index.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="https://nyanta-23.github.io/">
       <App />
     </BrowserRouter>
   </React.StrictMode>
