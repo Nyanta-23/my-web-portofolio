@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "name": "ASD",
-    "description": "Aplikasi manajemen pengeluaran kegiatan kabupaten Sumedang.",
+    "name": "Kuyliner",
+    "description": "Aplikasi web pemasaran yang dapat membantu penjualan di daerah bekasi. Projek ini dibuat untuk memenuhi tugas MSIB",
     "link": "https://kuyliner-app.netlify.app/",
     "image": "1.png",
     "source": null,
