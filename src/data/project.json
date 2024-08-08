@@ -52,12 +52,23 @@
 
  {
     "id": 6,
-    "name": "Mathla Travel",
-    "description": "Mathla Travel is a web company profile that is used as a marketing tool for Umrah or Hajj.",
+    "name": "BMI Calvulator",
+    "description": "Calculating your ideal body.",
     "link": "https://kuyliner-app.netlify.app/",
-    "image": "1.png",
+    "image": "6.png",
     "source": null,
     "tools": ["React", "Tailwind", "Express.js", "MongoDb"],
     "visibility": "public"
-  }
+  },
+{
+    "id": 7,
+    "name": "Bookshelf",
+    "description": "Bookshelf for managing book, this project is base on API",
+    "link": "https://kuyliner-app.netlify.app/",
+    "image": "7.png",
+    "source": null,
+    "tools": ["React", "Tailwind", "Express.js", "MongoDb"],
+    "visibility": "public"
+}
+
 ]
