@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Kuyliner",
-    "description": "A marketing web application that can help sales in the Bekasi area."
+    "description": "A marketing web application that can help sales in the Bekasi area.",
     "link": "https://kuyliner-app.netlify.app/",
     "image": "1.png",
     "source": null,
@@ -13,9 +13,9 @@
     "id": 2,
     "name": "random-number-generator",
     "description": "This project is a random number generator that will certainly generate random numbers, I made this because many people use this. The first project that made me step foot in the realm of it.",
-    "link": "https://kuyliner-app.netlify.app/",
+    "link": null,
     "image": "2.png",
-    "source": "http://localhost:5173/portofolio",
+    "source": "https://github.com/Nyanta-23/js-web-random-number-generator",
     "tools": ["HTML", "CSS", "JavaScript"],
     "visibility": "public"
   },
@@ -25,38 +25,38 @@
     "description": "This application is used for library circulation such as managing borrower members, books, and monitoring or managing book return times.",
     "link": null,
     "image": "3.png",
-    "source": null,
+    "source": "https://github.com/Nyanta-23/java-libary-circulation",
     "tools": ["Java", "MySQL"],
-    "visibility": "private"
+    "visibility": "public"
   },
   {
     "id": 4,
     "name": "Convertion Unit Meter",
     "description": "This app is base on CLI. And the functionbis converting unit meter",
-    "link": "https://kuyliner-app.netlify.app/",
+    "link": null,
     "image": "4.png",
-    "source": null,
+    "source": "https://github.com/Nyanta-23/java-simple-convertion-unit-meter",
     "tools": ["Java"],
-    "visibility": "private"
+    "visibility": "public"
   },
   {
     "id": 5,
     "name": "Mathla Travel",
     "description": "Mathla Travel is a web company profile that is used as a marketing tool for Umrah or Hajj.",
-    "link": "https://kuyliner-app.netlify.app/",
-    "image": "1.png",
+    "link": "https://matlha-travel.netlify.app/",
+    "image": "5.png",
     "source": null,
     "tools": ["React", "Tailwind", "Express.js", "MongoDb"],
-    "visibility": "public"
+    "visibility": "private"
   },
 
  {
     "id": 6,
-    "name": "BMI Calvulator",
+    "name": "BMI Calculator",
     "description": "Calculating your ideal body.",
-    "link": "https://kuyliner-app.netlify.app/",
+    "link": null,
     "image": "6.png",
-    "source": null,
+    "source": "https://github.com/Nyanta-23/js-web-bmi-calculator",
     "tools": ["React", "Tailwind", "Express.js", "MongoDb"],
     "visibility": "public"
   },
@@ -64,9 +64,9 @@
     "id": 7,
     "name": "Bookshelf",
     "description": "Bookshelf for managing book, this project is base on API",
-    "link": "https://kuyliner-app.netlify.app/",
+    "link": null,
     "image": "7.png",
-    "source": null,
+    "source": "https://github.com/Nyanta-23/hapi-bookshelf",
     "tools": ["React", "Tailwind", "Express.js", "MongoDb"],
     "visibility": "public"
 },
@@ -75,9 +75,9 @@
     "id": 8,
     "name": "Vehicle Management",
     "description": "This app have function for vehicle management and this have 2 party accept when employee want to borrwos some vehicle",
-    "link": "https://kuyliner-app.netlify.app/",
+    "link": null,
     "image": "8.png",
-    "source": null,
+    "source": "https://github.com/Nyanta-23/vehicle-management",
     "tools": ["React", "Tailwind", "Express.js", "MongoDb"],
     "visibility": "public"
 },
@@ -86,9 +86,9 @@
     "id": 7,
     "name": "E-Katalog",
     "description": "E Katalog is web like e commerce Like buying and seeing suitable items",
-    "link": "https://kuyliner-app.netlify.app/",
+    "link": null,
     "image": "9.png",
-    "source": null,
+    "source": "https://github.com/Nyanta-23/e-katalog",
     "tools": ["React", "Tailwind", "Express.js", "MongoDb"],
     "visibility": "public"
 }
