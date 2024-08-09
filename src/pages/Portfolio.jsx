@@ -37,6 +37,8 @@ function Portfolio() {
   const filterPublic = (project) =>
     project.filter((e) => e.visibility != "public");
 
+  console.log(project);
+
   return (
     <section className="flex flex-wrap flex-col place-items-center">
       <div className="border-2 border-none rounded-md bg-custom-black z-10 py-11 px-5 text-custom-white w-11/12 sm:w-9/12 lg:w-7/12">
@@ -78,15 +80,15 @@ function Card({ project }) {
   const path = `/image/portfolio`;
 
   return (
-    <>
-      <article className="w-11/12 sm:w-72 bg-custom-black rounded-b-md backdrop-blur-0 text-white">
+    <div className="gird grid-cols-2">
+      <article className="w-11/12 sm:w-80 h-auto bg-custom-black rounded-md backdrop-blur-0 text-white">
         <img
-          className="rounded-t-md w-full h-48  object-cover object-[80%_50%]"
+          className="rounded-t-md w-full h-48 object-cover object-[80%_50%]"
           src={`${path}/${project.image}`}
           alt=""
         />
 
-        <div className="mx-3 my-5">
+        <div className="mx-3 py-5">
           <div className="flex *:text-3xl gap-3">
             {project.source != null ? (
               <a href={project.source} target="_blank">
@@ -95,13 +97,18 @@ function Card({ project }) {
             ) : (
               ""
             )}
-            <a href={project.link} target="_blank">
-              <Link className="w-5" />
-            </a>
+
+            {project.link != null ? (
+              <a href={project.link} target="_blank">
+                <Link className="w-5" />
+              </a>
+            ) : (
+              ""
+            )}
           </div>
           <div className="my-3">
             <h6 className="text-2xl my-2">{project.name}</h6>
-            <p className="text-balance">{project.description}</p>
+            <p>{project.description}</p>
           </div>
           <div className="overflow-x-auto">
             <ul className="flex gap-3 pb-5">
@@ -114,7 +121,7 @@ function Card({ project }) {
           </div>
         </div>
       </article>
-    </>
+    </div>
   );
 }
 

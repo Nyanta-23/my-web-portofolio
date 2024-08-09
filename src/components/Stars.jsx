@@ -17,7 +17,7 @@ const Stars = () => {
   }, []);
 
   return (
-    <div className="fixed inset-0 z-0">
+    <div className="fixed inset-0 z-0 transition-all delay-100">
       {stars.map((star, index) => (
         <div
           key={index}

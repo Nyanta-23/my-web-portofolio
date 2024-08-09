@@ -6,7 +6,7 @@
     "link": "https://kuyliner-app.netlify.app/",
     "image": "1.png",
     "source": null,
-    "tools": ["React", "Tailwind", "Express.js", "MongoDb"],
+    "tools": ["React", "Tailwind", "Express.Js", "MongoDb"],
     "visibility": "private"
   },
   {
@@ -46,7 +46,7 @@
     "link": "https://matlha-travel.netlify.app/",
     "image": "5.png",
     "source": null,
-    "tools": ["React", "Tailwind", "Express.js", "MongoDb"],
+    "tools": ["React", "Tailwind"],
     "visibility": "private"
   },
 
@@ -57,7 +57,7 @@
     "link": null,
     "image": "6.png",
     "source": "https://github.com/Nyanta-23/js-web-bmi-calculator",
-    "tools": ["React", "Tailwind", "Express.js", "MongoDb"],
+    "tools": ["HTML", "CSS", "JavaScript"],
     "visibility": "public"
   },
 {
@@ -67,7 +67,7 @@
     "link": null,
     "image": "7.png",
     "source": "https://github.com/Nyanta-23/hapi-bookshelf",
-    "tools": ["React", "Tailwind", "Express.js", "MongoDb"],
+    "tools": ["Hapi.Js"],
     "visibility": "public"
 },
 
@@ -78,18 +78,18 @@
     "link": null,
     "image": "8.png",
     "source": "https://github.com/Nyanta-23/vehicle-management",
-    "tools": ["React", "Tailwind", "Express.js", "MongoDb"],
+    "tools": ["PHP", "MySQL", "Bootstrap"],
     "visibility": "public"
 },
 
 {
-    "id": 7,
+    "id": 9,
     "name": "E-Katalog",
     "description": "E Katalog is web like e commerce Like buying and seeing suitable items",
     "link": null,
     "image": "9.png",
     "source": "https://github.com/Nyanta-23/e-katalog",
-    "tools": ["React", "Tailwind", "Express.js", "MongoDb"],
+    "tools": ["PHP", "MySQL", "Bootstrap"],
     "visibility": "public"
 }
 
