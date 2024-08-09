@@ -80,7 +80,7 @@ function Card({ project }) {
   const path = `/image/portfolio`;
 
   return (
-    <div className="flex sm:block justify-center">
+    <div className="flex sm:block justify-center w-80 sm:w-full">
       <article className="w-11/12 sm:w-80 h-auto bg-custom-black rounded-md backdrop-blur-0 text-white">
         <img
           className="rounded-t-md w-full h-48 object-cover object-[80%_20%] sm:object-[80%_50%]"
