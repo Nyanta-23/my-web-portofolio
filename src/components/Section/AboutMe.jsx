@@ -8,33 +8,30 @@ function AboutMe() {
       <div className="pt-2 px-5 font-sans">
         <div className="*:my-4 text-justify">
           <p>
-            I'm a Web Developer from Indonesia. I am very enthusiastic about the
-            world of web development and would like to share some information
-            about myself.
+            I am a web developer from Indonesia. I am very enthusiastic to learn
+            technology in the field of Web Developer.
           </p>
           <p>
-            I have a strong desire to understand and master the latest
-            technologies in web development. You can find projects I've worked
-            on at my GithHub, which cover various fields such as office
-            industry, healthcare, government, and accounting.
+            I have the desire to learn and master various technologies in Web
+            Development or other fields if needed. required. You can check out
+            some of my projects on Github, to see my progress.
           </p>
-
           <p>
-            In my journey as a web developer, I have gained valuable experience
-            in creating web-based applications. I have worked with various teams
-            and have the ability to adapt to the demands of different projects.
+            In my journey as a Web Developer, I have gained various experiences
+            in creating web-based applications. I have worked with a team as a
+            Front-End Engineer where I gained valuable experience and also
+            gained valuable experience and also my first step entering the world
+            of Information Technology.
           </p>
-
           <p>
             I am very excited to continue learning and growing in the world of
-            web development. If you are looking for a developer committed to
-            providing creative and innovative solutions for your projects, I am
-            ready to join and contribute.
+            Web Development. If you are looking for a developer who is committed
+            to finding creative and innovative solutions for your projects, I am
+            ready to contribute. join to contribute.
           </p>
-
           <p>
-            Thank you for your attention, and I look forward to working with you
-            in delivering outstanding web solutions!
+            Thank you for your attention, I look forward to working with with
+            you in delivering outstanding web solutions!
           </p>
         </div>
       </div>

@@ -91,6 +91,17 @@
     "source": "https://github.com/Nyanta-23/e-katalog",
     "tools": ["PHP", "MySQL", "Bootstrap"],
     "visibility": "public"
+},
+
+{
+    "id": 10,
+    "name": "NOIU Event Organizer",
+    "description": "Web Company Profile NOIU-EO",
+    "link": "https://noiu-eo.com/",
+    "image": "10.png",
+    "source": null,
+    "tools": ["Next.Js", "JavaScript", "Tevily", "CSS"],
+    "visibility": "private"
 }
 
 ]
