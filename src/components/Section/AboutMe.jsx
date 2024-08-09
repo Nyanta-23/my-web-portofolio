@@ -14,7 +14,7 @@ function AboutMe() {
           <p>
             I have the desire to learn and master various technologies in Web
             Development or other fields if needed. required. You can check out
-            some of my projects on Github, to see my progress.
+            some of my projects on <a className="text-blue-500" href="https://github.com/Nyanta-23" target="_blank">Github</a>, to see my progress.
           </p>
           <p>
             In my journey as a Web Developer, I have gained various experiences

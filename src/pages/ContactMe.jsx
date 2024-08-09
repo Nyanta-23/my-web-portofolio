@@ -9,14 +9,14 @@ function ContactMe() {
         <h2 className="text-3xl text-center">Interest With Me?</h2>
 
         <div className="my-10 text-wrap mx-5 sm:mx-auto sm:max-w-96 text-sm *:my-2">
-          <a href="#" className="flex place-items-center gap-5">
+          <a href="mailto:muhamadilhan02404@gmail.com" target="_blank" className="flex place-items-center gap-5">
             <Envelope className="text-2xl sm:text-3xl" /> muhamadilhan02404@gmail.com
           </a>
-          <a href="#" className="flex place-items-center gap-5">
+          <a href="https://www.linkedin.com/in/ihaannn/" target="_blank" className="flex place-items-center gap-5">
             <Linkedin className="text-2xl sm:text-3xl" />
             Muhamad Ilhan Revaliana Firmansyah
           </a>
-          <a href="#" className="flex place-items-center gap-5">
+          <a href="https://www.instagram.com/ihaannn_/" target="_blank" className="flex place-items-center gap-5">
             <Instagram className="text-2xl sm:text-3xl" />
             @ihaannn_
           </a>
